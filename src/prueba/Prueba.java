@@ -199,6 +199,7 @@ class MarcoRebote extends JFrame{
 	
 }
 
+
 class PelotaHilos implements Runnable{
   Pelota pelota;
  Component componente;
