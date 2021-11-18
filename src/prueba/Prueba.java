@@ -199,7 +199,7 @@ class MarcoRebote extends JFrame{
 	
 }
 
-
+//pelotaHilos implementa runnbale
 class PelotaHilos implements Runnable{
   Pelota pelota;
  Component componente;
